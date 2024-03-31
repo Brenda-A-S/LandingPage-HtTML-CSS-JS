@@ -1,0 +1,12 @@
+@import url(./global/cores.css);
+@import url(./global/global.css);
+@import url(./global/header.css);
+@import url(./secoes/banner.css);
+@import url(./secoes/sobre.css);
+@import url(./secoes/delivery.css);
+@import url(./secoes/cardapio.css);
+@import url(./secoes/recomendacao.css);
+@import url(./secoes/avaliacoes.css);
+@import url(./secoes/experimente.css);
+@import url(./secoes/contato.css);
+@import url(./global/footer.css);
